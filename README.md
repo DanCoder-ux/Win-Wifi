@@ -13,3 +13,6 @@ pip install subprocess
 ~~~
 python script.py
 ~~~
+
+> [!NOTE]  
+> If the script dosen't work, try to run with Administrator
